@@ -1,0 +1,69 @@
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.exe
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.deps.json
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.runtimeconfig.json
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.runtimeconfig.dev.json
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.pdb
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.AssemblyReference.cache
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.AssemblyInfoInputs.cache
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.AssemblyInfo.cs
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.CoreCompileInputs.cache
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.CopyComplete
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.pdb
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.genruntimeconfig.cache
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\Институт\Прога\GoogleDriveTgBot\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.exe
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.deps.json
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.runtimeconfig.json
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.runtimeconfig.dev.json
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.pdb
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.AssemblyReference.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.AssemblyInfoInputs.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.AssemblyInfo.cs
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.CoreCompileInputs.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.CopyComplete
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.pdb
+D:\Институт\Прога\GoogleDriveTgBot no oauth\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.genruntimeconfig.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.AssemblyReference.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.AssemblyInfoInputs.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.AssemblyInfo.cs
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.CoreCompileInputs.cache
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.pdb
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.exe
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.deps.json
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.runtimeconfig.json
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.runtimeconfig.dev.json
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\GoogleDriveTgBot.pdb
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.csproj.CopyComplete
+D:\Институт\Прога\GoogleDriveTgBot no oauth — копия\GoogleDriveTgBot\obj\Debug\netcoreapp3.1\GoogleDriveTgBot.genruntimeconfig.cache
